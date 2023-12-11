@@ -52,9 +52,26 @@ Our project focused on traffic education. We designed a concept for a board game
 
 In the competition, 118 other projects were registered and we won the 5th place. 
 
-For this game, I illustrated pexeso cards for learning the basics of first aid and telephone numbers of police, ambulance and the police in the Czech republic I also created magnets, and illustrations of dangerous and safe situations 
+For this game, I illustrated pexeso cards for learning the basics of first aid and telephone numbers of police, ambulance and the police in the Czech Republic I also created magnets and illustrations of dangerous and safe situations 
 
 You can find the whole work [here](https://www.mojevizenula.cz/app/webroot/files/editor/files/MV0%205%20dokumenty/MV0_5_Kydalkova_VSKK_Bezpecnost%20hrou.pdf).
+
+
+
+
+
+## WORLD HEALTH CONGRESS 2023 PRAGUE
+
+This work was part of my internship. 
+What is WHC2023? 
+
+
+1.  **3D animation**
+gif of the animation
+-describe the animation,
+
+-	Approximately 2000 viewers from 55 countries saw the visual during the congress.
+
 
 
 
