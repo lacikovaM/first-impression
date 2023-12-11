@@ -67,7 +67,8 @@ What is WHC2023?
 
 
 1.  **3D animation**
-gif of the animation
+![gif of logos rotating around the earth, very sped up](images-01/animace-log-prolinacka-changed-1.gif)
+
 -describe the animation,
 
 -	Approximately 2000 viewers from 55 countries saw the visual during the congress.
