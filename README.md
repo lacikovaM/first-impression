@@ -26,8 +26,11 @@ The exam consists of speaking, writing, listening and reading and I passed it in
 
 
 ## Graduation (2021)
-I graduated from English-Czech High School Amazon
-focused on English. Besides intensive studies of the practical language (6 lessons a week), some subjects were taught in English by native speakers - I also “consumed” lot of English - reading (both as part of the curriculum and as a hobby) and watching films in original version. 
+
+![person smiling ](images-01/20210611_amazon_158_0425.jpg)
+
+
+I graduated from English-Czech High School Amazon focused on English. Besides intensive studies of the practical language (6 lessons a week), some subjects were taught in English by native speakers - I also “consumed” lot of English - reading (both as part of the curriculum and as a hobby) and watching films in original version. 
 The subjects that I graduated from were translation & interpretation and IT.
 
 
