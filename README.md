@@ -14,7 +14,7 @@ Art in any form has always been my hobby - I enjoy reading and writing and watch
 Besides sitting in my room all day, I do sports like skiing, swimming and rollerblading, or I just take a walk with my sister and our dog.
 
 
-# **MY PROUDEST MOMENTS & ACHIEVEMENTS*
+# *MY PROUDEST MOMENTS & ACHIEVEMENTS*
 
 ## My first art competition my first award.
 We start from the bottom of the mountain, and we climb
@@ -55,7 +55,7 @@ In the competition, 118 other projects were registered and we won the 5th place.
 
 For this game, I illustrated pexeso cards for learning the basics of first aid and telephone numbers of police, ambulance and the police in the Czech republic I also created magnets, and illustrations of dangerous and safe situations 
 
-You can find the whole work here: 
+You can find the whole work [here](https://www.mojevizenula.cz/app/webroot/files/editor/files/MV0%205%20dokumenty/MV0_5_Kydalkova_VSKK_Bezpecnost%20hrou.pdf).
 
 
 
