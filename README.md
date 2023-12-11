@@ -27,7 +27,7 @@ The exam consists of speaking, writing, listening and reading and I passed it in
 
 ## Graduation (2021)
 
-![person smiling ](images-01/20210611_amazon_158_0425.jpg)
+![person smiling](images-01/20210611_amazon_158_0425.jpg)
 
 
 I graduated from English-Czech High School Amazon focused on English. Besides intensive studies of the practical language (6 lessons a week), some subjects were taught in English by native speakers - I also “consumed” a lot of English - reading (both as part of the curriculum and as a hobby) and watching films in the original version. 
@@ -35,8 +35,7 @@ The subjects that I graduated from were translation & interpretation and IT.
 
 
 ## MY VISION ZERO: STUDENTS FOR SAFE ROADS
-!picture  
-
+![winners holding a prise ](images-01/MV0_foto_vyherci_5.jpg)
 
 From 1993 to 2022, 28 524 people died on the roads in the Czech Republic. Hundreds more will be added each year,
 
