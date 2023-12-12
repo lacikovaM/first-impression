@@ -68,11 +68,36 @@ What is WHC2023?
 1.  **3D animation**
 ![gif of logos rotating around the earth, very sped up](images-01/animace-log-prolinacka-changed-1.gif)
 
--describe the animation,
+-*describe the animation*
 
--	Approximately 2000 viewers from 55 countries saw the visual during the congress.
+Creation of the  3D animation, including:
+
+- Brainstorming ideas
+- Short 2D animatic of the idea
+- Creating models - Earth + logos
+- Creating the textures of the logos images that were sent in
+- Working with textures and UV
+- Animation using the graph editor function
+- Parenting 3d log (blocks) to motion path
+- Consultation with the boss about the order of the logos of the partner organizations 
+- Animation of camera movement
+- Parenting the background with the camera
+- Animating the rotation of the Earth
+- Appropriate lighting of the scene and adjustments to the texture of the earth model
+- Online consultation
+- Post-production in DaVinci Resolve editing software
 
 
+**-	Approximately 2000 viewers from 55 countries saw the visual during the congress.**
+
+2. **Technical Team**
+Technical clearance for the hybrid (online/physical) convention hall included:
+
+- Training and familiarization with the equipment.
+- 3 dress rehearsals before the live broadcast 
+- Working with the OBS program 
+- Communicating with those in the studio (reordering of the guest speakers, any technical issues)
+- Communication with colleagues (e.g.: assistants, host/moderator, sound engineer, cameraman)
 
 
 
