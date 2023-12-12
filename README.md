@@ -16,8 +16,9 @@ Besides sitting in my room all day, I do sports like skiing, swimming and roller
 # *MY PROUDEST MOMENTS & ACHIEVEMENTS*
 
 ## My first art competition my first award.
-We start from the bottom of the mountain, and we climb
+We start from the bottom of the mountain, and we climb.
 
+![framed illustration of bakers eating buts of baked and raw paster while they are working](images-01/Snímek obrazovky 2023-12-09 225947.png)
 
 ## FCE 
 A Cambridge certificate that shows that my level of English is B2 – upper-intermediate.
