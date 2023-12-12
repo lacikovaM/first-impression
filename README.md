@@ -1,5 +1,4 @@
 # First impression
-![i will put in the picture later ](XXX)
 
 # **ABOUT ME**
 
