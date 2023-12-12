@@ -100,7 +100,6 @@ Technical clearance for the hybrid (online/physical) convention hall included:
 - Communicating with those in the studio (reordering of the guest speakers, any technical issues)
 - Communication with colleagues (e.g.: assistants, host/moderator, sound engineer, cameraman)
 
-
-
+# MY WORK
 
 
