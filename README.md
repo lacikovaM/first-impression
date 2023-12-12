@@ -1,6 +1,6 @@
 # First impression
 
-![selfportrait]()
+![selfportrait](images-01/pfp.png)
 # **ABOUT ME**
 
 Hi! I’m Magda, a Czech-based visual storyteller: I love drawing a silly doodle in the corner of my notebook - a story to tell and making the most boring and ordinary object pretty, and aesthetic and giving said object a spark.
