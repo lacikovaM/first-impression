@@ -53,7 +53,9 @@ Our project focused on traffic education. We designed a concept for a board game
 
 In the competition, 118 other projects were registered and we won the 5th place. 
 
-For this game, I illustrated pexeso cards for learning the basics of first aid and telephone numbers of police, ambulance and the police in the Czech Republic I also created magnets and illustrations of dangerous and safe situations 
+For this game, I illustrated pexeso cards for learning the basics of first aid and telephone numbers of police, ambulance and the police in the Czech Republic I also created magnets and illustrations of dangerous and safe situations.
+
+![here](images-01/vize0_my-work.png)
 
 You can find the whole work [here](https://www.mojevizenula.cz/app/webroot/files/editor/files/MV0%205%20dokumenty/MV0_5_Kydalkova_VSKK_Bezpecnost%20hrou.pdf).
 
