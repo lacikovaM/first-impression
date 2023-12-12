@@ -18,7 +18,7 @@ Besides sitting in my room all day, I do sports like skiing, swimming and roller
 ## My first art competition my first award.
 We start from the bottom of the mountain, and we climb.
 
-![framed illustration of bakers eating bits of baked and raw pastery while they are working(images-01/Snímek obrazovky 2023-12-09 225947.png)
+![framed illustration of bakers eating bits of baked and raw pastery while they are working](images-01/bakers_baking.png)
 
 ## FCE 
 A Cambridge certificate that shows that my level of English is B2 – upper-intermediate.
