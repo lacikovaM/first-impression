@@ -101,5 +101,5 @@ Technical clearance for the hybrid (online/physical) convention hall included:
 - Communication with colleagues (e.g.: assistants, host/moderator, sound engineer, cameraman)
 
 # MY WORK
-
+![xxx](images-01/eheheh4.png)
 
