@@ -36,8 +36,9 @@ The subjects that I graduated from were translation & interpretation and IT.
 
 
 ## MY VISION ZERO: STUDENTS FOR SAFE ROADS
-![winners holding a prise ](images-01/MV0_foto_vyherci_5.jpg)
+![here](images-01/vize0_my-work.png)
 
+**About the project:**
 From 1993 to 2022, 28 524 people died on the roads in the Czech Republic. Hundreds more will be added each year,
 
 Vision Zero is zero deaths and serious injuries on the roads.
@@ -55,7 +56,7 @@ In the competition, 118 other projects were registered and we won the 5th place.
 
 For this game, I illustrated pexeso cards for learning the basics of first aid and telephone numbers of police, ambulance and the police in the Czech Republic I also created magnets and illustrations of dangerous and safe situations.
 
-![here](images-01/vize0_my-work.png)
+![winners holding a prise ](images-01/MV0_foto_vyherci_5.jpg)
 
 You can find the whole work [here](https://www.mojevizenula.cz/app/webroot/files/editor/files/MV0%205%20dokumenty/MV0_5_Kydalkova_VSKK_Bezpecnost%20hrou.pdf).
 
