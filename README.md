@@ -77,24 +77,10 @@ What is WHC2023?
 1.  **3D animation**
 ![gif of logos rotating around the earth, very sped up](images-01/animace-log-prolinacka-changed-1.gif)
 
--*describe the animation*
+Creating the 3D animation involved several steps. First, I brainstormed ideas and made a short 2D animatic. Then, in modelling and animation software Maya I made models of Earth and logos and added textures, that I made on my own. Here I utilised UV mapping techniques.
+In the animation process, I used the graph editor function for seamless motion, which involved parenting 3D logos to a predefined motion path.  I animated the camera movement and the Earth spinning and also lit the virtual scene.
+I worked on post-production in DaVinci Resolve to make the final product and during the whole process, I consulted the project with my boss to make sure that everything looked just as he envisioned. 
 
-Creation of the  3D animation, including:
-
-- Brainstorming ideas
-- Short 2D animatic of the idea
-- Creating models - Earth + logos
-- Creating the textures of the logos images that were sent in
-- Working with textures and UV
-- Animation using the graph editor function
-- Parenting 3d log (blocks) to motion path
-- Consultation with the boss about the order of the logos of the partner organizations 
-- Animation of camera movement
-- Parenting the background with the camera
-- Animating the rotation of the Earth
-- Appropriate lighting of the scene and adjustments to the texture of the earth model
-- Online consultation
-- Post-production in DaVinci Resolve editing software
 
 
 **-	Approximately 2000 viewers from 55 countries saw the visual during the congress.**
