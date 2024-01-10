@@ -86,7 +86,7 @@ I was part of a technical team for technical clearance of the hybrid (online/phy
 Finally, during the live broadcast, I communicated with my colleagues in the studio (who managed the order of guest speakers) and in the hall (e.g.: assistants, host/moderator, sound engineer, cameraman). We all solved any technical issues  quickly and swiftly to make sure the flow of the conference was smooth. 
 
 
-![xxx](images-01/focused on the  corner.png)
+![an image from the conference, the image is darkened but in the right-down corner it is not. In the not darkened part is me ](images-01/focused_on_the_corner.png)
 
 
 # MY WORK
