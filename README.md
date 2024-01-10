@@ -86,7 +86,8 @@ I was part of a technical team for technical clearance of the hybrid (online/phy
 Finally, during the live broadcast, I communicated with my colleagues in the studio (who managed the order of guest speakers) and in the hall (e.g.: assistants, host/moderator, sound engineer, cameraman). We all solved any technical issues  quickly and swiftly to make sure the flow of the conference was smooth. 
 
 
-![xxx](images-01/corner.png)
+![xxx](images-01/focused on the  corner.png)
+
 
 # MY WORK
 Here are examples so of work I have done over the past year and a half. Some were not project with a specific target I just drew what had crossed my mind in that particular moment. The drawing evolves on the sketch page and grows like a tree. It branches out and develops as my ideas on the page.
