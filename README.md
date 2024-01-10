@@ -86,13 +86,10 @@ I worked on post-production in DaVinci Resolve to make the final product and dur
 **-	Approximately 2000 viewers from 55 countries saw the visual during the congress.**
 
 2. **Technical Team**
-Technical clearance for the hybrid (online/physical) convention hall included:
 
-- Training and familiarization with the equipment.
-- 3 dress rehearsals before the live broadcast 
-- Working with the OBS program 
-- Communicating with those in the studio (reordering of the guest speakers, any technical issues)
-- Communication with colleagues (e.g.: assistants, host/moderator, sound engineer, cameraman)
+I was part of a technical team for technical clearance of the hybrid (online/physical) convention hall. Firstly, I underwent thorough training and familiarization with the equipment and OBS program. Secondly, I conducted three dress rehearsals before the live broadcast.
+Finally, during the live broadcast, I communicated with my colleagues in the studio (who managed the order of guest speakers) and in the hall (e.g.: assistants, host/moderator, sound engineer, cameraman). We all   solve any technical issues  quickly and swiftly to make sure the flow of the conference is smooth. 
+
 
 ![xxx](images-01/corner.png)
 
