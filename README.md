@@ -66,14 +66,13 @@ You can find the whole presentation of the project [here](https://www.mojevizenu
 
 ## WORLD HEALTH CONGRESS 2023 PRAGUE
 
-This work was part of my internship. 
-What is WHC2023? 
+This work was part of my internship. [What is WHC2023?](https://www.whc2023prague.com)
 
 
 1.  **3D animation**
 ![gif of logos rotating around the earth, very sped up](images-01/animace-log-prolinacka-changed-1.gif)
 
-Creating the 3D animation involved several steps. First, I brainstormed ideas and made a short 2D animatic. Then, in modelling and animation software Maya I made models of Earth and logos and added textures, that I made on my own. Here I utilised UV mapping techniques.
+Creating the 3D animation involved several steps. First, I brainstormed ideas and made a short 2D animatic. Then, in modelling and animation software Maya I made models of the Earth and logos and added textures, that I made on my own. Here I utilised UV mapping techniques.
 In the animation process, I used the graph editor function for seamless motion, which involved parenting 3D logos to a predefined motion path.  I animated the camera movement and the Earth spinning and also lit the virtual scene.
 I worked on post-production in DaVinci Resolve to make the final product and during the whole process, I consulted the project with my boss to make sure that everything looked just as he envisioned. 
 
@@ -83,13 +82,14 @@ I worked on post-production in DaVinci Resolve to make the final product and dur
 
 2. **Technical Team**
 
-I was part of a technical team for technical clearance of the hybrid (online/physical) convention hall. Firstly, I underwent thorough training and familiarization with the equipment and OBS program. Secondly, I conducted three dress rehearsals before the live broadcast.
-Finally, during the live broadcast, I communicated with my colleagues in the studio (who managed the order of guest speakers) and in the hall (e.g.: assistants, host/moderator, sound engineer, cameraman). We all   solve any technical issues  quickly and swiftly to make sure the flow of the conference is smooth. 
+I was part of a technical team for technical clearance of the hybrid (online/physical) conference hall. Firstly, I underwent thorough training and familiarization with the equipment and OBS program. Secondly, I conducted three dress rehearsals before the live broadcast.
+Finally, during the live broadcast, I communicated with my colleagues in the studio (who managed the order of guest speakers) and in the hall (e.g.: assistants, host/moderator, sound engineer, cameraman). We all solved any technical issues  quickly and swiftly to make sure the flow of the conference was smooth. 
 
 
 ![xxx](images-01/corner.png)
 
 # MY WORK
+Here are examples so of work I have done over the past year and a half. Some were not project with a specific target I just drew what had crossed my mind in that particular moment. The drawing evolves on the sketch page and grows like a tree. It branches out and develops as my ideas on the page.
 ![xxx](images-01/eheheh4.png)
 ![xxx](images-01/my_fan_art.png)
 
